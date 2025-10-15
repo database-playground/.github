@@ -34,6 +34,8 @@
 
 ## 儲存庫
 
+![architecture](./architecture.webp)
+
 - App 前端是使用 Next.js 撰寫的，在 [frontend-next](https://github.com/database-playground/frontend-next) 儲存庫裡面。
 - 管理介面在 [admin-frontend](https://github.com/database-playground/admin-frontend) 儲存庫裡面。
 - 後端是使用 Golang 撰寫的，在 [backend-v2](https://github.com/database-playground/backend-v2) 儲存庫裡面。
